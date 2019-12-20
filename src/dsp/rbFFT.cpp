@@ -21,7 +21,7 @@
     you must obtain a valid commercial licence before doing so.
 */
 
-#include "FFT.h"
+#include "rbFFT.h"
 #include "system/Thread.h"
 #include "base/Profiler.h"
 #include "system/Allocators.h"

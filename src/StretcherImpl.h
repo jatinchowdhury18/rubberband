@@ -28,7 +28,7 @@
 
 #include "dsp/Window.h"
 #include "dsp/SincWindow.h"
-#include "dsp/FFT.h"
+#include "dsp/rbFFT.h"
 
 #include "audiocurves/CompoundAudioCurve.h"
 
